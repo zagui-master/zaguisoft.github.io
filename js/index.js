@@ -1,0 +1,1 @@
+import{showUserNameInheader}from"./modules/show-user-name-header.js";showUserNameInheader();const date=document.getElementById("date");let d=new Date,year=d.getFullYear();date.innerHTML=year;

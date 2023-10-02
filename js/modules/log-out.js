@@ -1,0 +1,1 @@
+import{url}from"../helpers/urls.js";export const logOut=()=>{document.getElementById("btn_log_out").addEventListener("click",(()=>{location.href=url.log_in}))};document.getElementById("btn_log_out").addEventListener("click",(()=>{location.href=url.log_in}));

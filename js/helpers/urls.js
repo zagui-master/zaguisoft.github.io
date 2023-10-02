@@ -1,0 +1,1 @@
+export const url={log_in:"../index.html",sign_up:"./pages/sign-up.html",courses:"./pages/courses.html",payment:"./pages/payment.html",admin:"./pages/admy.html",pqr:"./pages/pqr.html",pqr_ok:"./pages/pqr-ok.html"};
