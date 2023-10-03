@@ -1,1 +1,1 @@
-import{showUserNameInheader}from"./modules/show-user-name-header.js";import{renderFooter}from"./modules/render-footer.js";import{btnAnimatio}from"./modules/btn-animation.js";showUserNameInheader(),renderFooter(),btnAnimatio();
+import{showUserNameInheader}from"./modules/show-user-name-header.js";import{renderFooter}from"./modules/render-footer.js";showUserNameInheader(),renderFooter();
