@@ -1,0 +1,1 @@
+import{showModalLoader}from"./modal-loader.js";import{dissipatedAnimation}from"./dissipated-animation.js";const form_pqr=document.getElementById("form_pqr");form_pqr.addEventListener("submit",(o=>{o.preventDefault(),showModalLoader(),dissipatedAnimation(),setTimeout((()=>{form_pqr.reset()}),8e3)}));

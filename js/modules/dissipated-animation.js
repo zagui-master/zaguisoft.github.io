@@ -1,0 +1,1 @@
+export const dissipatedAnimation=()=>{const t=document.getElementById("modal_dissipated");setTimeout((()=>{t.classList.add("dissipated-animation")}),8500)};
